@@ -7,6 +7,7 @@
 
 - Download https://github.com/Redm-Extended-PT/rdx_weaponshop
 - Put it in the `[rdx]` directory
+- Run the `.sql` file
 
 ## Installation
 - Add this to your `server.cfg`:
