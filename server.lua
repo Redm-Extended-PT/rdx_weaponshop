@@ -429,7 +429,7 @@ AddEventHandler('knives:buyammo', function()
     local xPlayer = RDX.GetPlayerFromId(_source)
       if xPlayer.getMoney() >= 3 then 
             xPlayer.removeMoney(3)
-            xPlayer.addInventoryItem('arrows', 1)
+            xPlayer.addInventoryItem('knives', 1)
         TriggerClientEvent('rdx_gunshop:alert', _source, "Comprou Balas Revolver por 3$")
     else 
         TriggerClientEvent('rdx_gunshop:alert', _source, "Não tens dinheiro suficiente")
