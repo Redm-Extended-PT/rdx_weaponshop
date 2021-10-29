@@ -19,3 +19,5 @@ ensure rdx_weaponshop
 ![rdx_weaponshop](https://cdn.discordapp.com/attachments/686807996420063232/901655516852416552/unknown.png)
 
 ### rdx_weaponshop is free of use, but I would appreciate it if you leave a credit when personalising or editing this.
+
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
